@@ -1,0 +1,127 @@
+*{
+    background-color: rgb(129, 236, 236);
+}
+#cnt_1{
+    margin-left: 450px;
+    box-shadow: 0px 10px 20px rgb(90, 39, 8);
+}
+.bgclr_white{
+    background-color: aliceblue;
+    border: 5px solid red;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: larger;
+}
+.position_fixed{
+    height: 60px;
+    width: 500px;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 5px solid brown;
+    border-radius: 10px;
+    background-color: yellow;
+    margin-left: 350px;
+}
+#offer_1{
+    height: 25px;
+    width: 200px;
+    text-align: center;
+    background-color: yellow;
+    padding: 10px;
+    font-size: larger;
+    font-style: italic;
+}
+#offer_2{
+    height: 25px;
+    width: 130px;
+    text-align: center;
+    background-color: yellow;
+    padding: 10px;
+    font-style: italic;
+}
+.bgclr_white_l{
+    background-color: aliceblue;
+    font-style: italic;
+    text-shadow: 0px 5px 10px rgb(238, 101, 17);
+
+} 
+.bgclr_white_c{
+    height: 150px;
+    width: 170px;
+    border: 2px solid red;
+    text-align: center;
+    padding: 30px 15px 12px 15px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(238, 101, 17);
+}
+#container{
+    border: 5px solid blue;
+    margin: 20px;
+    height: 500px;
+}
+.ln_1{
+    line-height: 5px;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+#container_2{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10px;
+}
+#container_3{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px 10px;
+    /* gap: 40px; */
+}
+.flx_cnt_bgc{
+    background-color: white;
+}
+#flex_container{
+    margin: auto;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: green;
+    border: 5px solid brown;
+    box-shadow: 0px 0px 10px rgb(21, 47, 47);
+}
+#main_heading{
+    width: 800px;
+    height: 30px;
+    padding: 10px;
+    border: 500px inset red;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    margin-top: 0px;
+    border: 1px solid black;
+    background-color: green;
+    color: aliceblue;
+    font-size: x-large;
+}
+.flex_item{
+    width: 380px;
+    height: 250px;
+    margin-top: 5px;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    background-color: #fff;
+    margin-bottom: 10px;
+    text-align: center;
+    font-style: italic;
+}
+#lst_cntnr{
+    width: 790px;
+    margin: 2px;
+    text-align: center;
+}
